@@ -27,6 +27,7 @@ dependencies = [
     "tabulate",
     "typer",
     "uvicorn[standard]",
+    "psycopg2-binary",
 ]
 [project.optional-dependencies]
 dev = [
